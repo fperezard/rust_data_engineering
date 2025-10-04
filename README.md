@@ -1,2 +1,2 @@
 # rust_data_engineering
-Curso de Ingenieria de datos con Rust
+Curso de Ingeniería de datos con Rust
